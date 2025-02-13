@@ -1,5 +1,3 @@
-Here’s a README.md for your script:
-
 # 🚀 Accelerate Your Pandas Workflows with Fireducks
 
 This script demonstrates how to **efficiently process and transform movie data** using `fireducks.pandas`, a compiler-accelerated alternative to traditional Pandas.
